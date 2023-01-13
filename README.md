@@ -52,3 +52,12 @@ Time Complexity'ye göre Average Case'dir. Yani aradığımız sayının ortada 
 
 Big-O gösterimi = nlogn'dir.
 
+# Binary Search Tree
+
+## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları
+
+Root'u 7 olarak ele alıp yanındaki sayıları sırayla ekleme yaptığımızda:
+
+![Projem](https://r.resimlink.com/1mA5v.png)
+
+
