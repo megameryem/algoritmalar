@@ -1,6 +1,6 @@
 # Selection Sort Projesi
 
-##[22,27,16,2,18,6] dizisinin Selection Sort'a göre aşamaları:
+## [22,27,16,2,18,6] dizisinin Selection Sort'a göre aşamaları:
 
 1.aşama 22 27 doğru (Doğru olduğu için değişmez)
 
@@ -43,4 +43,12 @@ Time Complexity'ye göre Average Case'dir. Yani aradığımız sayının ortada 
 
 4.Aşama: 2,3,4,5,7,8,9,15,6
 
+# Merge Sort
+
+## [16,21,11,8,12,22] dizisinin Merge Sort'a göre aşamaları
+
+![Projem](https://r.resimlink.com/7wDNe6J5A-3.png)
+
+
+Big-O gösterimi = nlogn'dir.
 
